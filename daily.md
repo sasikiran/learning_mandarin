@@ -46,3 +46,15 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 -------------------
 * Practiced the same words but in combination of: re, cha, zhou, tang, mi fan, ka fei, he, zhe, shi. Completed all exercises for the day very quickly and even spoke the words into the mic.
 * Practiced Hanji for mi fan (米饭) and re. I found fan (饭) and re (热) extremely difficult to practice. Mi was easy though.
+
+19 Aug, 2025
+-------------------
+* Practiced Hanji characters for mi fan and re. I think I am a bit more confident in writing these today.
+* Greetings: 
+	* Nǐ hǎo (pronounced nee hau) meaning hello or literally translates to you good?
+	* Nǐn hǎo is also hello but is said to someone elderly or superior. I am assuming this is like saying _namasthe ji_ to an elderly. Another common way to greet is to ask: Nǐ hǎo ma? (which translates to how are you?)
+	* You can respond to Ni hao with:
+		* hěn hǎo - very good
+		- bù hǎo - not good
+		- hái hǎo - so so (or okay or not bad).
+	* Tiānqì means weather. It's pronounced: Tyen-chee. So, Tiānqì hái hǎo ma? means: Is the weather okay? You can reply with: hái hǎo (it's okay or it's alright which is a modest form of response).
