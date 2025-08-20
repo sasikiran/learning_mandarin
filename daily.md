@@ -58,3 +58,9 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 		- bù hǎo - not good
 		- hái hǎo - so so (or okay or not bad).
 	* Tiānqì means weather. It's pronounced: Tyen-chee. So, Tiānqì hái hǎo ma? means: Is the weather okay? You can reply with: hái hǎo (it's okay or it's alright which is a modest form of response).
+
+20 Aug, 2025
+-------------------
+* Practiced Hanzi for mǐ fàn (米饭), hé (和), chá (茶), tāng (汤)
+* Found all of them to be somewhat simple except fàn 饭.
+* There are places where I want to write the characters in certain way. For example, chá (茶) is similar to drawing a hut with a chimney on top but the order of Hanji strokes are forcing me to do it in a different way in software. If I write it on a paper, I would definitely draw it like a hut. Similarly, the mǐ (米) part is like an asterisk or a flower but the order of strokes shown in the software is different. This needs practice. Maybe its different for a good reason? Time will tell.
