@@ -64,3 +64,9 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 * Practiced Hanzi for mǐ fàn (米饭), hé (和), chá (茶), tāng (汤)
 * Found all of them to be somewhat simple except fàn 饭.
 * There are places where I want to write the characters in certain way. For example, chá (茶) is similar to drawing a hut with a chimney on top but the order of Hanji strokes are forcing me to do it in a different way in software. If I write it on a paper, I would definitely draw it like a hut. Similarly, the mǐ (米) part is like an asterisk or a flower but the order of strokes shown in the software is different. This needs practice. Maybe its different for a good reason? Time will tell.
+
+21 Aug, 2025
+-------------------
+* Practiced Hanzi for "zhe" (这) from "zhe shi". The character on the computer looks a bit different, the left bottom part was certainly like a hand-written 3.
+* Practiced Hanzi for zhōu (粥). 
+* Both the characters practiced today were easier.
