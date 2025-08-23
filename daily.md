@@ -70,3 +70,9 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 * Practiced Hanzi for "zhe" (这) from "zhe shi". The character on the computer looks a bit different, the left bottom part was certainly like a hand-written 3.
 * Practiced Hanzi for zhōu (粥). 
 * Both the characters practiced today were easier.
+
+22 Aug, 2025
+-------------------
+* Practiced Hanzi for "Zhè shì" (这是).
+* Practiced Hanzi for Dòufu (豆腐).
+
