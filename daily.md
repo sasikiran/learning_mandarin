@@ -76,3 +76,7 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 * Practiced Hanzi for "Zhè shì" (这是).
 * Practiced Hanzi for Dòufu (豆腐).
 
+23 Aug, 2025
+-------------------
+* Practiced speaking phrases in a combination of mǐ fàn (米饭), hé (和), chá (茶), tāng (汤), kā fēi (咖啡), rè (热), zhōu (粥), zhè shì (这是)
+* Practiced identifying phrases with translations - English to Mandarin and vice versa in speech and written form.
