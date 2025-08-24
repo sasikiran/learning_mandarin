@@ -80,3 +80,14 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 -------------------
 * Practiced speaking phrases in a combination of mǐ fàn (米饭), hé (和), chá (茶), tāng (汤), kā fēi (咖啡), rè (热), zhōu (粥), zhè shì (这是)
 * Practiced identifying phrases with translations - English to Mandarin and vice versa in speech and written form.
+
+24 Aug, 2025
+-------------------
+* Practiced a combination of speaking phrases for all the words so far: mǐ fàn (米饭), hé (和), chá (茶), tāng (汤), kā fēi (咖啡), rè (热), zhōu (粥), zhè shì (这是)
+* Started practicing nationalities:
+	* America is Měiguó 美国
+	* Japan is Rìběn 日本
+	* China is Zhōngguó 中国
+So, Zhè shì rìběn 这是日本 means This is Japan.
+
+
