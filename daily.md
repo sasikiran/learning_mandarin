@@ -90,4 +90,7 @@ Chinese characters are like emojis. Each character has a meaning. These are writ
 	* China is Zhōngguó 中国
 So, Zhè shì rìběn 这是日本 means This is Japan.
 
-
+25 Aug, 2025
+-------------------
+* If Měiguó is American, Měiguó rén is American. Similarly, if Rìběn is Japan, Rìběn rén is Japanese and Zhōngguó rén is Chinese.
+* Practiced phrases such as: Wǒ shì měiguó rén 我是美国人 (I am American), Wǒ shì rìběn rén 我是日本人 (I am Japanese) and Wǒ shì Zhōngguó rén along with some revision on previous food items.
