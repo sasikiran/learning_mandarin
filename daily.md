@@ -92,5 +92,15 @@ So, Zhè shì rìběn 这是日本 means This is Japan.
 
 25 Aug, 2025
 -------------------
-* If Měiguó is American, Měiguó rén is American. Similarly, if Rìběn is Japan, Rìběn rén is Japanese and Zhōngguó rén is Chinese.
+* If Měiguó is American, Měiguó rén is American. Similarly, if Rìběn is Japan, Rìběn rén is Japanese and Zhōngguó rén 中国人 is Chinese.
 * Practiced phrases such as: Wǒ shì měiguó rén 我是美国人 (I am American), Wǒ shì rìběn rén 我是日本人 (I am Japanese) and Wǒ shì Zhōngguó rén along with some revision on previous food items.
+
+26 Aug, 2025
+-------------------
+* Hánguó 韩国 means Korea. Hánguó rén 韩国人 means Korean.
+* Nǐ ne usually refers to 'and you?' or 'and how about you?'. For example: Wǒ shì zhōngguó rén, nǐ ne? 我是中国人，你呢？
+
+27 Aug, 2025
+-------------------
+* Practiced the same nationality phrases.
+* Practiced Hanji for měiguó rén, rìběn rén and zhōngguó rén. One common and easy aspect is that all three words have repeating rén 人 and two words have guó 国 also in common. Zhōngguó rén 中国人 is very easy to write in Hanji.
