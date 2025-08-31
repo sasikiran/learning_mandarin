@@ -104,3 +104,15 @@ So, Zhè shì rìběn 这是日本 means This is Japan.
 -------------------
 * Practiced the same nationality phrases.
 * Practiced Hanji for měiguó rén, rìběn rén and zhōngguó rén. One common and easy aspect is that all three words have repeating rén 人 and two words have guó 国 also in common. Zhōngguó rén 中国人 is very easy to write in Hanji.
+
+28 Aug, 2025
+-------------------
+* Practiced speaking sentences on nationalities such as: wǒ shì rìběn rén, nǐ ne? 我是日本人，你呢？
+
+29 Aug, 2025
+-------------------
+* Practiced Hanji for nationalities. The only thing is that I forgot Hanji for last week's zhōu (粥) in the revision exercies.
+
+30 Aug, 2025
+-------------------
+* Solved hard exercises on nationalities and food items.
