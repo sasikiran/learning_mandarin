@@ -116,3 +116,12 @@ So, Zhè shì rìběn 这是日本 means This is Japan.
 30 Aug, 2025
 -------------------
 * Solved hard exercises on nationalities and food items.
+
+1 Sep, 2025
+-------------------
+* Practiced Hanji for nationalities
+* Revised words from food and nationalities
+
+2 Sep, 2025
+-------------------
+* Revised in hard mode on food and nationalities that included speaking, match the following and hanji
