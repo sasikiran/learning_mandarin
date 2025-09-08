@@ -125,3 +125,34 @@ So, Zhè shì rìběn 这是日本 means This is Japan.
 2 Sep, 2025
 -------------------
 * Revised in hard mode on food and nationalities that included speaking, match the following and hanji
+
+3 Sep, 2025
+-------------------
+* Nationalities chapter is done. I think I did well overall until here, except for Hanzi practice.
+
+4 Sep, 2025
+-------------------
+* Started learning professions. 
+	* Yīshēng 医生 means Doctor
+	* Lǎoshī 老师 means Teacher 
+
+5 Sep, 2025
+-------------------
+* Practiced professions. 
+	* Wǒ shì yīngwén lǎoshī 我 是 英文 老师 - I am an English teacher. It's interesting that DuoLingo says "yīngwén" for English. Most online translators including Google Translate and LLMs use: "yīngyǔ" for English instead. So, everywhere I find "Wǒ shì yīngyǔ lǎoshī" as opposed to "Wǒ shì yīngwén lǎoshī"
+* yīngwén lǎoshī hé Zhōngguó yīshēng - English teacher and a Chinese doctor
+
+6 Sep, 2025
+-------------------
+* More professions: 
+	* xuéshēng 学生 (pronounced shui-sheng) means student 
+	* lǜshī 律师 means lawyer. Nǐ shì Měiguó lǜshī means You are an American lawyer.
+* yīshēng and xuéshēng are sounding similar
+* lǎoshī and lǜshī are also similar.
+* Started making mistakes. It's harder to recognize some Hanji characters without practice and I am no longer making 'perfect' scores on the lessons.
+
+7 Sep, 2025
+-------------------
+* Emphasis on duì bu duì?
+* Nǐ shì Zhōngguó xuéshēng -- You are a Chinese student
+* Nǐ shì Zhōngguó xuéshēng, duì bu duì? - You are a Chinese student, am I right?
